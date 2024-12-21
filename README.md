@@ -92,7 +92,5 @@
 </div>
 
 ## ᴡᴀᴛᴄʜ ᴍʏ ꜱɴᴀᴋᴇ ᴇᴀᴛ ᴀʟʟ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ<p style="font-size: 50px; animation: cry 1s infinite alternate;">😢</p>
-
-
 <img src="https://raw.githubusercontent.com/Mayurx75/Mayurx75/output/snake.svg" alt="Snake animation" />
 
