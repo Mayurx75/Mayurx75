@@ -84,8 +84,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurx75&show_icons=true&locale=en&layout=compact" alt="mayurx75" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurx75&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="mayurx75" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurx75&show_icons=true&locale=en" alt="mayurx75" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurx75&" alt="mayurx75" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurx75&background=000000&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="mayurx75" /></p>
+
