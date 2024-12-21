@@ -91,7 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayurx75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## WATCH MY SNAKE EAT ALL MY CONTRIBUTIONS <p>😢</p>
+## WATCH MY SNAKE EAT ALL MY CONTRIBUTIONS <p style="font-size: 50px; animation: cry 1s infinite alternate;">😢</p>
 
 <img src="https://raw.githubusercontent.com/Mayurx75/Mayurx75/output/snake.svg" alt="Snake animation" />
 
