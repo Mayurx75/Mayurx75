@@ -16,7 +16,7 @@
 - 💡 Passionate about building intelligent solutions and seamless user experiences.
 - 📊 Specializing in AI/ML models, data-driven applications, and frontend integration with React.
 - 🌟 Open source advocate and lifelong learner.
-- 📫 Let's collaborate: [My E-mail](mayurff752gmail.com)
+- 📫 Let's collaborate: (mayurff75@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
