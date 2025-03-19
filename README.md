@@ -11,11 +11,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🚀 AI Engineer | React Enthusiast
+- 🚀 AI Engineer | Full-Stack Developer
+- 🌐 Portfolio: [My Portfolio](https://mayurportfolio75.netlify.app/)
 - 💡 Passionate about building intelligent solutions and seamless user experiences.
 - 📊 Specializing in AI/ML models, data-driven applications, and frontend integration with React.
 - 🌟 Open source advocate and lifelong learner.
-- 📫 Let's collaborate: [mayurff75@gmail.com]
+- 📫 Let's collaborate: [My E-mail](mayurff752gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
